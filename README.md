@@ -43,24 +43,7 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harpreet0982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet0982&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet0982&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harpreet0982&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harpreet0982&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet0982&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
