@@ -1,0 +1,22 @@
+<svg width="900" height="290" viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="898" height="288" rx="10" fill="#0A0A0A" stroke="#39FF14" stroke-width="1.5"/>
+  <path d="M1 11 A10 10 0 0 1 11 1 H889 A10 10 0 0 1 899 11 V35 H1 Z" fill="#161616"/>
+  <circle cx="26" cy="18" r="7" fill="#FF5F56"/>
+  <circle cx="48" cy="18" r="7" fill="#FFBD2E"/>
+  <circle cx="70" cy="18" r="7" fill="#27C93F"/>
+  <text x="450" y="23" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e" text-anchor="middle">harry@harpreet0982: ~</text>
+
+  <text font-family="Consolas, Menlo, monospace" font-size="18" fill="#39FF14" xml:space="preserve">
+    <tspan x="30" y="72">$ whoami</tspan>
+    <tspan x="30" y="100" fill="#D9FFDD">harpreet_singh — career switcher</tspan>
+
+    <tspan x="30" y="135">$ cat background.log</tspan>
+    <tspan x="30" y="163" fill="#D9FFDD">10+ yrs bookkeeping, consulting &amp; insurance (freight/logistics)</tspan>
+
+    <tspan x="30" y="198">$ ps --now-building</tspan>
+    <tspan x="30" y="226" fill="#D9FFDD">ai-automation.sh · trading-bots.py · content-pipeline.js</tspan>
+
+    <tspan x="30" y="261">$ status --check</tspan>
+    <tspan x="330" y="261" fill="#39FF14">[OK] clearance-eligible   [OK] open-to-work_</tspan>
+  </text>
+</svg>
