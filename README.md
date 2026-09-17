@@ -1,57 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20I'm%20Harry&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Career-transitioning%20into%20IT%20%7C%20Building%20in%20public&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:39D353&height=230&section=header&text=HARPREET%20SINGH&fontSize=46&fontColor=39D353&animation=twinkling&fontAlignY=35&desc=Freight%20%26%20Finance%20%E2%86%92%20IT%20%7C%20AI%20Builder%20%7C%20Trader&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Ex-bookkeeper+%2B+insurance+handler+to+IT;10%2B+years+in+logistics+%26+finance+ops;Now+coding%2C+automating%2C+and+shipping;DoD+Secret+Clearance+eligible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&width=650&lines=10%2B+years+in+bookkeeping+%26+insurance+ops;Now+shipping+code+%2B+AI+automations;Building+in+public%2C+one+commit+at+a+time;DoD+Secret+Clearance+eligible+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harpreet0982&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-06b6d4?style=flat-square" alt="open to work"/>
-<img src="https://img.shields.io/badge/Location-Easton%2C%20PA-6366f1?style=flat-square" alt="location"/>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-39D353?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=harpreet0982&style=for-the-badge&color=39D353&label=&labelColor=0D1117" height="28"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39D353?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BASED%20IN-EASTON%2C%20PA-39D353?style=for-the-badge&labelColor=0D1117"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/harrpreet-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harpreet0982@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/harrpreet-singh"><img src="https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
+<a href="mailto:harpreet0982@gmail.com"><img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
+<a href="https://github.com/harpreet0982"><img src="https://img.shields.io/badge/GitHub-39D353?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+
+</div>
+
+<br/>
+
+---
+
+## 📌 About Me
+
+```yaml
+role:        "Career-transitioning into IT & Software Development"
+background:  "10+ yrs Bookkeeping, Consulting & Insurance (Freight/Logistics)"
+building:    ["AI Automation Systems", "Trading Bots & Dashboards", "Content Automation"]
+clearance:   "U.S. Citizen — DoD Secret Clearance eligible"
+mindset:     "Learning in public. Shipping small, shipping often."
+```
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Currently
+- 🧩 Stacking IT certifications + hands-on projects
+- 🤖 Building AI automation tooling as an independent venture
+- 📈 Running stock/options trading systems
+- 🎬 Automating content-creation pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Ask Me About
+- Making a career pivot into tech later in the game
+- AI-driven automation & workflow tooling
+- Options trading systems & dashboards
+- Going from ops/finance roles into building software
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,github,linux,bash,aws,docker,mysql,postgres,vscode&theme=dark" />
 
 </div>
 
 ---
 
-### About Me
-
-- Making the switch from **10+ years in bookkeeping, consulting & insurance** (freight/logistics industry) into **IT & software**
-- Currently stacking certifications and hands-on projects to break into tech
-- Building **AI automation** tooling and workflows as an independent venture
-- Also active in **stock/options trading systems** and **content creation/automation**
-- U.S. citizen, eligible to pursue a **DoD Secret Clearance**
-- Learning in public, this profile is a running log of that journey
-
----
-
-### Tech I'm Working With
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,bash,aws,mysql,postgres,react,nodejs,vscode&theme=dark" />
-</div>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet0982&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="180"/>
 
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet0982&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
 
 <div align="center">
 
-*"Started in freight and finance. Building my way into tech, one commit at a time."*
+### 🐍 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harpreet0982/harpreet0982/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harpreet0982/harpreet0982/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/harpreet0982/harpreet0982/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>*Eating my own contribution graph, one commit at a time.*</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:39D353,100:0D1117&height=120&section=footer" width="100%"/>
+
+<i>"Started in freight and finance. Building my way into tech — one commit at a time."</i>
 
 </div>
