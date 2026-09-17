@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:39D353&height=230&section=header&text=HARPREET%20SINGH&fontSize=46&fontColor=39D353&animation=twinkling&fontAlignY=35&desc=Freight%20%26%20Finance%20%E2%86%92%20IT%20%7C%20AI%20Builder%20%7C%20Trader&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:39D353&height=230&section=header&text=HARPREET%20SINGH&fontSize=46&fontColor=39D353&animation=twinkling&fontAlignY=35&desc=Freight%20%2B%20Finance%20%E2%86%92%20IT%20%7C%20AI%20Builder%20%7C%20Trader&descAlignY=55&descSize=17&descColor=FFFFFF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=39D353&background=0D111700&center=true&vCenter=true&width=650&lines=10%2B+years+in+bookkeeping+%26+insurance+ops;Now+shipping+code+%2B+AI+automations;Building+in+public%2C+one+commit+at+a+time;DoD+Secret+Clearance+eligible+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
